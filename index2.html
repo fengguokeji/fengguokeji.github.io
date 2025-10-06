@@ -360,18 +360,6 @@
         const content = element.querySelector('.accordion-content');
         content.classList.toggle('open');
       }
-
-      // Exit intent popup (simple version)
-      document.addEventListener('mouseleave', function(e) {
-        if (e.clientY <= 0) {
-          // Show popup if not already shown
-          if (!sessionStorage.getItem('popupShown')) {
-            alert('即将离开？试用1天免费节点！'); // Replace with modal
-            sessionStorage.setItem('popupShown', 'true');
-          }
-        }
-      });
-
       // Service Worker for PWA (basic)
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js'); // Assume sw.js exists
