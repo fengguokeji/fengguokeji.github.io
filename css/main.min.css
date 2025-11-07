@@ -1,0 +1,12 @@
+body{font-family:system-ui,sans-serif;background:#fff;color:#111}
+header,footer{backdrop-filter:blur(10px)}
+button,a[href]{min-height:44px;-webkit-tap-highlight-color:transparent}
+.btn-buy{display:inline-block;text-align:center;background:#2563eb;color:#fff;
+padding:0.5rem 1rem;border-radius:9999px;transition:transform .1s ease,background .2s}
+.btn-buy:hover{background:#1e40af}.btn-buy:active{transform:scale(.95)}
+.pricing-grid{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+.pricing-card{background:#fff;border-radius:1rem;border:1px solid #e5e7eb;padding:1rem;
+box-shadow:0 1px 3px rgba(0,0,0,.05);display:flex;flex-direction:column;
+justify-content:space-between;transition:box-shadow .2s}
+.pricing-card:hover{box-shadow:0 4px 10px rgba(0,0,0,.1)}
+footer p{font-size:.875rem}
