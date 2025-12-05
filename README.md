@@ -1,5 +1,5 @@
 # Shadowrocket
-# 小火箭,Shadowrocket官网,Shadowrocket,小火箭节点,小火箭订阅,科学上网.
+# 小火箭,Shadowrocket官网,Shadowrocket,小火箭节点,小火箭订阅,科学上网,魔法.
 
 ## 适用于 iPhone/iPad/Apple TV/Mac(M系列芯片)  
 
