@@ -11,7 +11,7 @@
 **一键配置，即刻使用！**
 点击下方链接获取 Shadowrocket 专用节点订阅，原生 IP 线路，专为 AI 优化。
 
-👉 **[点击购买高速节点订阅 (解锁 GPT-4 / Gemini / 流媒体)](https://fengguokeji.web.app/)** 👈
+👉 **[点击购买高速节点订阅 (解锁 GPT-5 / Gemini / 流媒体)](https://fengguokeji.web.app/)** 👈
 
 ---
 
