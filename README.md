@@ -1,5 +1,5 @@
 # Shadowrocket
-# 小火箭,Shadowrocket官网,Shadowrocket,小火箭节点,小火箭订阅,科学上网,魔法.
+# 小火箭,Shadowrocket官网,Shadowrocket,小火箭节点,小火箭订阅,科学上网,魔法,Shadowrocket官网,Shadowrocket在线安装,Shadowrocket成品号,Shadowrocket兑换码,苹果小火箭账号,shadowrocket小火箭购买,Shadowrocket小火箭共享安装,shadow rocket下载
 
 ## 适用于 iPhone/iPad/Apple TV/Mac(M系列芯片)  
 
