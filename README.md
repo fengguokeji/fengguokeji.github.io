@@ -5,11 +5,15 @@
 ## 📱 软件介绍
 **Shadowrocket**（俗称“小火箭”）是一款基于规则的强大代理实用程序客户端。它不仅是苹果生态下最受欢迎的网络调试工具，更是**解锁国际 AI 生产力工具**的必备神器。
 
-**支持设备：**
-* iPhone (iOS 13+)
-* iPad (iPadOS 13+)
-* Apple TV
-* Mac (搭载 M1/M2/M3 系列芯片的机型)
+---
+
+## 🚀 立即获取 AI 专用高速服务
+**一键配置，即刻使用！**
+点击下方链接获取 Shadowrocket 专用节点订阅，原生 IP 线路，专为 AI 优化。
+
+👉 **[点击购买高速节点订阅 (解锁 GPT-4 / Gemini / 流媒体)](https://fengguokeji.web.app/)** 👈
+
+---
 
 ---
 
@@ -23,15 +27,7 @@
 * ✅ **Microsoft Copilot**: 无缝集成微软 AI 服务。
 * ✅ **Midjourney / Stable Diffusion**: 高速下载绘图资源。
 
----
 
-## 🚀 立即获取 AI 专用高速服务
-**一键配置，即刻使用！**
-点击下方链接获取 Shadowrocket 专用节点订阅，原生 IP 线路，专为 AI 优化。
-
-👉 **[点击购买高速节点订阅 (解锁 GPT-4 / Gemini / 流媒体)](https://fengguokeji.web.app/)** 👈
-
----
 
 ## ✨ 核心功能
 
