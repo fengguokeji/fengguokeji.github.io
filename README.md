@@ -1,7 +1,7 @@
 # 🚀 Shadowrocket 小火箭官网  
 ### iOS / Mac 最强 AI 解锁 & 网络代理神器
 
-> **关键词**：Shadowrocket、小火箭、小火箭节点、科学上网、魔法上网、ChatGPT、Gemini、Grok、Claude、Midjourney、小火箭账号、Apple ID、小火箭在线安装、AI 解锁节点
+> **关键词**：Shadowrocket、小火箭、小火箭节点、科学上网、魔法上网、ChatGPT、Gemini、Grok、Claude、Midjourney、小火箭账号、Apple ID、小火箭在线安装、AI 解锁节点.
 
 ---
 
