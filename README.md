@@ -7,7 +7,7 @@
 
 ## 🔥 立即获取 · AI 专用高速加速服务  
 **一键导入 · 秒开全部国际 AI**  
-专为 ChatGPT / Gemini / Claude / OpenAI / Midjourney 优化的原生高速节点，稳定、低延迟、不封号
+专为 ChatGPT / Gemini / Claude / OpenAI / Openclaw 优化的原生高速节点，稳定、低延迟、不封号
 
 👉 **[点击购买高速节点订阅（解锁 GPT-5 / Gemini / Claude / 流媒体）](https://fengguokeji.web.app/)** 👈
 
